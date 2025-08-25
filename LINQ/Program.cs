@@ -1,5 +1,4 @@
-﻿
-using System.Collections;
+﻿using System.Collections;
 using System.Text.RegularExpressions;
 using static LINQ02.ListGenerator;
 
